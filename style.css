@@ -44,7 +44,7 @@ main{
     font-size: 2.25rem;
     width: 212px;
     transform: translateX(-100%);
-    text-align: end;
+    text-align: left;
     margin-right: 24px;
 }
 .content-image{
