@@ -6,3 +6,5 @@ Landing page de treino com HTML e CSS.
 - HTML
 - CSS
 - Media Queries
+
+Atividade realizada no **Senai Jandira**
